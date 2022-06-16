@@ -1,7 +1,7 @@
 ### Olá!! Eu sou Thiagomatheuscss
 
 - 🔭 Hoje trabalho com Front-End 
-- 🌱 Estudando Typescript e Angular 
+- 🌱 Estudando Typescript e Angular e GOlang
 - 💬 Contate-me no email: thiagodebarros12@gmail.com 
 - 😄 Pronouns: ele/dele
 
